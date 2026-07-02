@@ -1,0 +1,14 @@
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.exe
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.deps.json
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.runtimeconfig.json
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.dll
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.pdb
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.AssemblyInfoInputs.cache
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.AssemblyInfo.cs
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.dll
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\SingletonPatternExample\obj\Debug\net10.0\refint\SingletonPatternExample.dll
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.pdb
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.genruntimeconfig.cache
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\SingletonPatternExample\obj\Debug\net10.0\ref\SingletonPatternExample.dll

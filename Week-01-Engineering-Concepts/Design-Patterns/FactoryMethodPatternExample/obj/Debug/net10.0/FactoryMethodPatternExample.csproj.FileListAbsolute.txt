@@ -1,0 +1,14 @@
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\FactoryMethodPatternExample\bin\Debug\net10.0\FactoryMethodPatternExample.exe
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\FactoryMethodPatternExample\bin\Debug\net10.0\FactoryMethodPatternExample.deps.json
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\FactoryMethodPatternExample\bin\Debug\net10.0\FactoryMethodPatternExample.runtimeconfig.json
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\FactoryMethodPatternExample\bin\Debug\net10.0\FactoryMethodPatternExample.dll
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\FactoryMethodPatternExample\bin\Debug\net10.0\FactoryMethodPatternExample.pdb
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.AssemblyInfoInputs.cache
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.AssemblyInfo.cs
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.csproj.CoreCompileInputs.cache
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.dll
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\refint\FactoryMethodPatternExample.dll
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.pdb
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\FactoryMethodPatternExample.genruntimeconfig.cache
+D:\Cognizant-Skilling\Week-01-Engineering-Concepts\Design-Patterns\FactoryMethodPatternExample\obj\Debug\net10.0\ref\FactoryMethodPatternExample.dll
