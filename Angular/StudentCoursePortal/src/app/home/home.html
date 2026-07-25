@@ -1,0 +1,32 @@
+<h1>{{ portalName }}</h1>
+
+<p>Manage your courses using Angular.</p>
+
+<hr>
+
+<h3>Property Binding</h3>
+
+<button [disabled]="!isPortalActive">
+    Enroll Now
+</button>
+
+<hr>
+
+<h3>Event Binding</h3>
+
+<button (click)="onEnrollClick()">
+    Click to Enroll
+</button>
+
+<p>{{ enrollMessage }}</p>
+
+<hr>
+
+<h3>Two-Way Binding</h3>
+
+<input
+type="text"
+[(ngModel)]="searchTerm"
+placeholder="Search Course">
+
+<p>Searching for: {{ searchTerm }}</p>
