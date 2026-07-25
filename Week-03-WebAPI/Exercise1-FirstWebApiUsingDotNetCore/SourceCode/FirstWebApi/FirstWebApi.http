@@ -1,0 +1,6 @@
+@FirstWebApi_HostAddress = https://localhost:7272/swagger/index.html
+
+GET {{FirstWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
